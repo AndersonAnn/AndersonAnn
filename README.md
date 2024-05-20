@@ -106,7 +106,7 @@ Sunday       47 commits     ████░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On**
 
 ```text
-⌚︎ Time Zone: Asia/Lima (GMT-5)
+⌚︎ Time Zone: Lima (GMT-5)
 
 💬 Programming Languages:
 JavaScript               7 hrs 45 mins      █████████████████░░░░░░░░   45.59%
@@ -129,7 +129,7 @@ VS Code                  5 hrs 26 mins        ████████░░░�
 <!-- Connection -->
 <h2> Connect with me 👋</h2>
 <p align="center">
-  <a href="https://instagram.com/ans" target="_blank">
-    <code><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="_.lil.huy._" height="30" width="40"/></code>
+  <a href="https://instagram.com/anderson_asc_/" target="_blank">
+    <code><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="_.lil.huy._" height="30" width="40"/></code>
   </a>
 </p>
